@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("test");
         System.out.println("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");
         System.out.println("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");
+        pull
     }
 }
