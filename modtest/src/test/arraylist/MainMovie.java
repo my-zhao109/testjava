@@ -16,6 +16,8 @@ public class MainMovie {
         for (int i = 0; i < movies.size(); i++) {
             Movie m=movies.get((i));
             System.out.println(m.getName());
+            System.out.println(m.getAcort());
+            System.out.println(m.getScore());
 
         }
 
